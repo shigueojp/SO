@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="EP4:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EP4_jar</output-path>
+    <root id="archive" name="EP4.jar">
+      <element id="module-output" name="EP4" />
+    </root>
+  </artifact>
+</component>
